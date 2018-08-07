@@ -1,0 +1,107 @@
+[
+ {
+   "from_currency": "CHF",
+   "to_currency": "EUR",
+   "rate": 0.9534
+ },
+ {
+   "from_currency": "CHF",
+   "to_currency": "JPY",
+   "rate": 132.0581
+ },
+ {
+   "from_currency": "CHF",
+   "to_currency": "GBP",
+   "rate": 0.6782
+ },
+ {
+   "from_currency": "CHF",
+   "to_currency": "USD",
+   "rate": 1.0682
+ },
+ {
+   "from_currency": "EUR",
+   "to_currency": "GBP",
+   "rate": 0.7113
+ },
+ {
+   "from_currency": "EUR",
+   "to_currency": "CHF",
+   "rate": 1.0488
+ },
+ {
+   "from_currency": "EUR",
+   "to_currency": "USD",
+   "rate": 1.1204
+ },
+ {
+   "from_currency": "EUR",
+   "to_currency": "JPY",
+   "rate": 138.5092
+ },
+ {
+   "from_currency": "GBP",
+   "to_currency": "JPY",
+   "rate": 194.6853
+ },
+ {
+   "from_currency": "GBP",
+   "to_currency": "EUR",
+   "rate": 1.4057
+ },
+ {
+   "from_currency": "GBP",
+   "to_currency": "CHF",
+   "rate": 1.4743
+ },
+ {
+   "from_currency": "GBP",
+   "to_currency": "USD",
+   "rate": 1.5746
+ },
+ {
+   "from_currency": "JPY",
+   "to_currency": "CHF",
+   "rate": 0.007573
+ },
+ {
+   "from_currency": "JPY",
+   "to_currency": "USD",
+   "rate": 0.008087
+ },
+ {
+   "from_currency": "JPY",
+   "to_currency": "GBP",
+   "rate": 0.005136
+ },
+ {
+   "from_currency": "JPY",
+   "to_currency": "EUR",
+   "rate": 0.00722
+ },
+ {
+   "from_currency": "USD",
+   "to_currency": "CHF",
+   "rate": 0.9361
+ },
+ {
+   "from_currency": "USD",
+   "to_currency": "GBP",
+   "rate": 0.635
+ },
+ {
+   "from_currency": "USD",
+   "to_currency": "JPY",
+   "rate": 123.6482
+ },
+{
+   "from_currency": "INR",
+   "to_currency": "GBP",
+   "rate": 0.0110528
+ },
+ {
+   "from_currency": "INR",
+   "to_currency": "USD",
+   "rate":  0.0148310
+ }
+]
